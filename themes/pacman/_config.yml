@@ -58,7 +58,7 @@ fancybox: true
 author:
   google_plus: 115988245477822746390   ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
   intro_line1: "你好，我是Haojun Fan，远人村村长" ## eg: "Hello ,I'm Larry Page in Google."
-  intro_line2: "This is my blog" ## eg: "This is my blog,believe it or not."
+  intro_line2: "这是我们远人村的村委会" ## eg: "This is my blog,believe it or not."
   weibo: 1703783703     ## e.g. 436062867 for http://weibo.com/436062867
   twitter:    ## e.g. yangjiansky for https://twitter.com/yangjiansky
   github: semitie    ## e.g. A-limon for https://github.com/A-limon
