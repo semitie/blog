@@ -10,4 +10,4 @@ categories:
 {% endblockquote %}
 
 ##婚礼上的给父母的礼物
-<embed src="http://player.youku.com/player.php/sid/XODk2MjE4MjMy/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<div class="video-container"><iframe src="http://player.youku.com/embed/XODk2MjE4MjMy" frameborder=0 allowfullscreen></iframe></div>
