@@ -12,7 +12,7 @@ language: zh-CN
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://articraft.cn
+url: http://yua.ren
 root: /
 permalink: :category/:title/
 tag_dir: tags
@@ -32,7 +32,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 highlight:
   enable: true
@@ -74,7 +74,7 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-disqus_shortname: articraft-cn
+disqus_shortname: yuaren
 
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
